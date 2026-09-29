@@ -1,3 +1,8 @@
+Laura Sofia Parra Gutierrez 
+deployment: https://laurapargu-prog.github.io/base-pokedex-20262/
+
+
+
 # Pokedex Explorer en React
 
 Migracion del buscador original de Pokémon a React con Vite. La aplicación permite buscar por nombre o número de Pokedex y consultar tipos, habilidades, altura y peso desde PokéAPI.
